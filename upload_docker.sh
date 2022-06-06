@@ -5,7 +5,9 @@
 
 # Step 1:
 # Create dockerpath
-# dockerpath=<your docker ID/path>
+# dockerpath=<your docker ID/path>                    
+
+
 dockerpath=shivaprasadkamath/udacityproject4
 
 # Step 2:  
