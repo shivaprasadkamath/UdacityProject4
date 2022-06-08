@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/87082879/128412085-367883a5-afaf-480f-91ab-33e34c7d691d.png)
+[![CircleCI](https://circleci.com/gh/shivaprasadkamath/UdacityProject4/tree/main.svg?style=svg)](https://circleci.com/gh/shivaprasadkamath/UdacityProject4/tree/main)
 
 <include a CircleCI status badge, here>
 
